@@ -1,6 +1,5 @@
-## Hi there 👋, I'm Dez
+# Hi there 👋, I'm Dez
 I’m a front-end developer with many years of experience specializing in Angular 2+. My expertise lies in building dynamic, responsive, and scalable web applications using Angular’s powerful ecosystem, along with tools like RxJS, NgRx, PrimeNG, and Tailwind CSS. I’ve also worked extensively with Ant Design (ng-zorro), focusing on crafting highly usable interfaces.
-
 ### 👨‍💻 Angular Developer | Front-End Specialist
 #### 🔧 Tech Stack & Skills:
 - <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white"/>
