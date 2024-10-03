@@ -35,7 +35,7 @@ I’m a front-end developer with many years of experience specializing in Angula
   
   
   
-🚀 ***What I’m working on:*** Currently transitioning Angular apps to standalone setups, integrating custom builds with ngx-build-plus, and experimenting with abstract classes for better error handling in TypeScript.
+🚀 ***What I’m working on:*** I specialize in building scalable applications and libraries. My expertise includes implementing micro frontend architecture, integrating Webview for seamless app integration, and upgrading Angular applications to the latest versions for improved performance and maintainability. I strongly focus on developing robust library apps, ensuring modularity, efficient code management, smooth transitions between Angular versions, and transitioning Angular apps to standalone setups.
 
 <!--
 **huynhle98/huynhle98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
