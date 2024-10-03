@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Dez
 
 ### My Skills:
 <p>
@@ -12,7 +12,6 @@
   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-3A33D1?logo=eslint" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white" />
   <img alt="Ant Design" src="https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=ant-design&logoColor=0170FE" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
